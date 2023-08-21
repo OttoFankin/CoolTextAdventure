@@ -1,0 +1,14 @@
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\bin\Debug\net6.0\sJKFNHJHSDB.exe
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\bin\Debug\net6.0\sJKFNHJHSDB.deps.json
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\bin\Debug\net6.0\sJKFNHJHSDB.runtimeconfig.json
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\bin\Debug\net6.0\sJKFNHJHSDB.dll
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\bin\Debug\net6.0\sJKFNHJHSDB.pdb
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\sJKFNHJHSDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\sJKFNHJHSDB.AssemblyInfoInputs.cache
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\sJKFNHJHSDB.AssemblyInfo.cs
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\sJKFNHJHSDB.csproj.CoreCompileInputs.cache
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\sJKFNHJHSDB.dll
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\refint\sJKFNHJHSDB.dll
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\sJKFNHJHSDB.pdb
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\sJKFNHJHSDB.genruntimeconfig.cache
+C:\Users\OttoF\source\repos\sJKFNHJHSDB\sJKFNHJHSDB\obj\Debug\net6.0\ref\sJKFNHJHSDB.dll
